@@ -1,0 +1,27 @@
+[
+ {
+   "repository": "CyanogenMod/lge-kernel-gproj",
+   "target_path": "kernel/lge/gproj",
+   "branch": "cm-12.0"
+ },
+ {
+   "repository": "Team-Validus/device_lge_ls970-common",
+   "target_path": "device/lge/ls970-common",
+   "branch": "lp5.0"
+ },
+ {
+   "repository": "Team-Validus/device_lge_gproj-common",
+   "target_path": "device/lge/gproj-common",
+   "branch": "lp5.0"
+ },
+ {
+  "repository": "TheMuppets/proprietary_vendor_lge",
+  "target_path": "vendor/lge",
+  "branch": "cm-12.0"
+ },
+ {
+  "repository":  "CyanogenMod/android_device_qcom_common",
+  "target_path": "device/qcom/common",
+  "branch":      "cm-12.0"
+ } 
+]
